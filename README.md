@@ -17,13 +17,14 @@ Data-driven insights can help improve campaign strategy and increase funding suc
 ## Tools Used
 Tableau  
 Excel  
+sql
 
 ## Key Insights
-• Certain project categories achieve higher funding success rates  
-• Projects with moderate funding goals perform better  
-• Backer contribution patterns influence campaign success  
-• Campaign duration impacts funding outcome  
-• Location-based trends show variation in funding success
+• Product Design and Technology categories show higher success rates  
+• Campaigns with moderate funding goals have better success probability  
+• Backer contribution significantly impacts project success  
+• Certain locations show higher campaign performance  
+• Project duration influences funding outcomes
 
 ## Dashboard Features
 • KPI metrics (Total backers, funding amount, success rate)
@@ -33,11 +34,12 @@ Excel
 • Backer contribution insights
 
 ## Skills Demonstrated
-Data Visualization using Tableau  
-Business Insight Generation  
-Trend Analysis  
-Dashboard Design  
-Data Interpretation  
+• Tableau Dashboard Development  
+• Data Visualization  
+• Business Insight Generation  
+• Trend Analysis  
+• KPI Metrics Interpretation  
+• Data Storytelling  
 
 ## Business Impact
 The insights help entrepreneurs understand factors influencing successful campaigns. This supports better planning of funding goals, campaign duration, and category selection to improve success probability.
